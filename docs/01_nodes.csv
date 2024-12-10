@@ -10,16 +10,19 @@ Ensemble2,Ensemble2.7BRsjSB82dXbHQxhyXmk-11,Satellite,default
 Ensemble2,Ensemble2.7BRsjSB82dXbHQxhyXmk-12,Satellite,default
 Ensemble2,Ensemble2.7BRsjSB82dXbHQxhyXmk-15,Hub,Nudel
 Ensemble2,Ensemble2.7BRsjSB82dXbHQxhyXmk-16,Satellite,Pasta
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-15,Hub,Client
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-16,Satellite,default
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-18,Hub,Fiege Location
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-19,Satellite,default
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-21,Hub,Advice
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-22,Satellite,default
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-24,Link,Link
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-28,Hub,Advice Line
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-29,Satellite,default
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-32,Link,Link
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-35,Hub,Article
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-36,Satellite,default
-Ensemble3,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-38,Link,Link
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-15,Hub,Client
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-16,Satellite,default
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-18,Hub,Fiege Location
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-19,Satellite,default
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-21,Hub,Advice
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-22,Satellite,default
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-24,Link,Link
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-28,Hub,Advice Line
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-29,Satellite,default
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-32,Link,Link
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-35,Hub,Article
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-36,Satellite,default
+Standard Inbound,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-38,Link,Link
+Standard Inbound,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1,Satellite,Process Status
+Standard Inbound,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2,Satellite,Process Status
+Standard Inbound,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6,Reference,Reference

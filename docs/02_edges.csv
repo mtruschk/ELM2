@@ -6,15 +6,19 @@ Ensemble2,Hub,Parent,Hub-to-Sat,,Satellite,other,Ensemble2.7BRsjSB82dXbHQxhyXmk-
 Ensemble2,Satellite,default,Hub-to-Sat,,Hub,Child,Ensemble2.7BRsjSB82dXbHQxhyXmk-14,Ensemble2.7BRsjSB82dXbHQxhyXmk-11,Ensemble2.7BRsjSB82dXbHQxhyXmk-10
 Ensemble2,Satellite,Pasta,Hub-to-Sat,,Hub,Nudel,Ensemble2.7BRsjSB82dXbHQxhyXmk-17,Ensemble2.7BRsjSB82dXbHQxhyXmk-16,Ensemble2.7BRsjSB82dXbHQxhyXmk-15
 Ensemble2,Hub,Nudel,Hub-to-Link-1,,Link,Link,Ensemble2.7BRsjSB82dXbHQxhyXmk-18,Ensemble2.7BRsjSB82dXbHQxhyXmk-15,Ensemble2.7BRsjSB82dXbHQxhyXmk-9
-Ensemble3,Satellite,default,Hub-to-Sat,,Hub,Client,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-17,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-16,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-15
-Ensemble3,Satellite,default,Hub-to-Sat,,Hub,Fiege Location,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-20,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-19,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-18
-Ensemble3,Satellite,default,Hub-to-Sat,,Hub,Advice,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-23,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-22,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-21
-Ensemble3,Hub,Advice,Hub-to-Link-1,,Link,Link,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-25,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-21,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-24
-Ensemble3,Hub,Fiege Location,Hub-to-Link-N,,Link,Link,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-26,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-18,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-24
-Ensemble3,Hub,Client,Hub-to-Link-N,,Link,Link,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-27,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-15,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-24
-Ensemble3,Satellite,default,Hub-to-Sat,,Hub,Advice Line,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-30,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-29,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-28
-Ensemble3,Hub,Advice Line,Hub-to-Link-1,,Link,Link,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-33,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-28,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-32
-Ensemble3,Hub,Advice,Hub-to-Link-N,,Link,Link,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-34,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-21,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-32
-Ensemble3,Satellite,default,Hub-to-Sat,,Hub,Article,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-37,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-36,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-35
-Ensemble3,Hub,Advice Line,Hub-to-Link-1,,Link,Link,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-39,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-28,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-38
-Ensemble3,Hub,Article,Hub-to-Link-N,,Link,Link,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-40,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-35,Ensemble3.CRDZAX5_v3VsPTcbH_Vh-38
+Standard Inbound,Satellite,default,Hub-to-Sat,,Hub,Client,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-17,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-16,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-15
+Standard Inbound,Satellite,default,Hub-to-Sat,,Hub,Fiege Location,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-20,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-19,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-18
+Standard Inbound,Satellite,default,Hub-to-Sat,,Hub,Advice,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-23,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-22,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-21
+Standard Inbound,Hub,Advice,Hub-to-Link-1,,Link,Link,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-25,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-21,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-24
+Standard Inbound,Hub,Fiege Location,Hub-to-Link-N,,Link,Link,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-26,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-18,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-24
+Standard Inbound,Hub,Client,Hub-to-Link-N,,Link,Link,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-27,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-15,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-24
+Standard Inbound,Satellite,default,Hub-to-Sat,,Hub,Advice Line,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-30,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-29,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-28
+Standard Inbound,Hub,Advice Line,Hub-to-Link-1,,Link,Link,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-33,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-28,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-32
+Standard Inbound,Hub,Advice,Hub-to-Link-N,,Link,Link,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-34,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-21,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-32
+Standard Inbound,Satellite,default,Hub-to-Sat,,Hub,Article,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-37,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-36,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-35
+Standard Inbound,Hub,Advice Line,Hub-to-Link-1,,Link,Link,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-39,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-28,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-38
+Standard Inbound,Hub,Article,Hub-to-Link-N,,Link,Link,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-40,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-35,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-38
+Standard Inbound,Hub,Advice Line,Hub-to-Sat,,Satellite,Process Status,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-3,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-28,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2
+Standard Inbound,Hub,Advice,Hub-to-Sat,,Satellite,Process Status,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-5,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-21,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1
+Standard Inbound,Satellite,Process Status,Hub-to-Sat,,Reference,Reference,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-7,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6
+Standard Inbound,Reference,Reference,Hub-to-Sat,,Satellite,Process Status,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-8,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6,Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2
