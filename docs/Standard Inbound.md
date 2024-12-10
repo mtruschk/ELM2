@@ -20,7 +20,7 @@
 |Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-38|Link|Link|
 |Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1|Satellite|Process Status|
 |Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2|Satellite|Process Status|
-|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6|Reference|Reference|
+|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6|Reference|Process Status|
 
 ## recognized connections from b.telligent Shape Library:
 
@@ -40,5 +40,5 @@
 |Hub|Article|Hub-to-Link-N||Link|Link|Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-40|Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-35|Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-38
 |Hub|Advice Line|Hub-to-Sat||Satellite|Process Status|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-3|Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-28|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2
 |Hub|Advice|Hub-to-Sat||Satellite|Process Status|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-5|Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-21|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1
-|Satellite|Process Status|Hub-to-Sat||Reference|Reference|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-7|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6
-|Reference|Reference|Hub-to-Sat||Satellite|Process Status|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-8|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2
+|Satellite|Process Status|Hub-to-Sat||Reference|Process Status|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-7|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6
+|Reference|Process Status|Hub-to-Sat||Satellite|Process Status|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-8|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2
