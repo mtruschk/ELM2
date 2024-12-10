@@ -191,9 +191,11 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="mK-Mi_4KFUAdVltzjD9l-6" value="Reference" style="shape=card;whiteSpace=wrap;html=1;size=20;fillColor=#eeeeee;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
+        <object label="Reference" btelligentShapeType="Reference" id="mK-Mi_4KFUAdVltzjD9l-6">
+          <mxCell style="shape=card;whiteSpace=wrap;html=1;size=20;fillColor=#eeeeee;strokeColor=#999999;" vertex="1" parent="1">
+            <mxGeometry x="-160" y="520" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
         <object label="" btelligentShapeType="Hub-to-Sat" id="mK-Mi_4KFUAdVltzjD9l-7">
           <mxCell style="endArrow=none;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="mK-Mi_4KFUAdVltzjD9l-1" target="mK-Mi_4KFUAdVltzjD9l-6">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
