@@ -154,11 +154,12 @@ def to_markdown_file(xml_path, shapes, connections):
     base_name = os.path.splitext(xml_path)[0]
     md_filename = f"{base_name}.md"
     diagram_name = os.path.splitext(os.path.basename(xml_path))[0]
+    diagram_file_name = diagram_name.replace(" ", "%20")
 
     with open(md_filename, 'w') as md_file:
         md_file.write(f"# Overview for Diagram **{diagram_name}**:\n\n")
         
-        md_file.write(f"![Diagram {diagram_name}](../png/{diagram_name.replace(" ", "%20")}.png)\n")
+        md_file.write(f"![Diagram {diagram_name}](../png/{diagram_file_name}.png)\n")
         
         md_file.write(f"## recognized shapes from b.telligent Shape Library:\n\n")
         md_file.write(f"|Shape ID|Shape Type|Label|\n")

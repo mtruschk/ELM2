@@ -1,6 +1,6 @@
 # Overview for Diagram **Standard Inbound**:
 
-![Diagram Standard Inbound](../png/Standard Inbound.png)
+![Diagram Standard Inbound](../png/Standard%20Inbound.png)
 ## recognized shapes from b.telligent Shape Library:
 
 |Shape ID|Shape Type|Label|
