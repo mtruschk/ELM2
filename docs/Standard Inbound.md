@@ -22,6 +22,8 @@
 |Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2|Satellite|Process Status|
 |Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6|Reference|Process Status|
 |Standard Inbound.XAUylolUDNEYOAg-yCa5-1|Hub|Manufacturer|
+|Standard Inbound.XAUylolUDNEYOAg-yCa5-2|Hub|Transport|
+|Standard Inbound.XAUylolUDNEYOAg-yCa5-3|Satellite|default|
 
 ## recognized connections from b.telligent Shape Library:
 
@@ -43,3 +45,5 @@
 |Hub|Advice|Hub-to-Sat||Satellite|Process Status|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-5|Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-21|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1
 |Satellite|Process Status|Hub-to-Sat||Reference|Process Status|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-7|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6
 |Reference|Process Status|Hub-to-Sat||Satellite|Process Status|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-8|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6|Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2
+|Satellite|default|Hub-to-Sat||Hub|Transport|Standard Inbound.XAUylolUDNEYOAg-yCa5-4|Standard Inbound.XAUylolUDNEYOAg-yCa5-3|Standard Inbound.XAUylolUDNEYOAg-yCa5-2
+|Hub|Transport|Hub-to-Link-N||Link|Link|Standard Inbound.XAUylolUDNEYOAg-yCa5-5|Standard Inbound.XAUylolUDNEYOAg-yCa5-2|Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-32
