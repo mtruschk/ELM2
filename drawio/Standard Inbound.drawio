@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Seite-1" id="FO7F2LYot5oVuI9nNaOF">
-    <mxGraphModel dx="3413" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,6 +218,32 @@
         <object label="Manufacturer" btelligentShapeType="Hub" id="XAUylolUDNEYOAg-yCa5-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="640" y="880" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Transport" btelligentShapeType="Hub" id="XAUylolUDNEYOAg-yCa5-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="400" y="520" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="default" btelligentShapeType="Satellite" id="XAUylolUDNEYOAg-yCa5-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="560" y="520" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" btelligentShapeType="Hub-to-Sat" id="XAUylolUDNEYOAg-yCa5-4">
+          <mxCell style="endArrow=none;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" source="XAUylolUDNEYOAg-yCa5-3" target="XAUylolUDNEYOAg-yCa5-2" parent="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="290" y="460" as="sourcePoint" />
+              <mxPoint x="190" y="460" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="" btelligentShapeType="Hub-to-Link-N" id="XAUylolUDNEYOAg-yCa5-5">
+          <mxCell style="endArrow=ERmany;html=1;rounded=1;endSize=15;endFill=0;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="XAUylolUDNEYOAg-yCa5-2" target="CRDZAX5_v3VsPTcbH_Vh-32">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="230" y="430" as="sourcePoint" />
+              <mxPoint x="230" y="530" as="targetPoint" />
+            </mxGeometry>
           </mxCell>
         </object>
       </root>
