@@ -21,6 +21,7 @@
 |Standard Inbound.mK-Mi_4KFUAdVltzjD9l-1|Satellite|Process Status|
 |Standard Inbound.mK-Mi_4KFUAdVltzjD9l-2|Satellite|Process Status|
 |Standard Inbound.mK-Mi_4KFUAdVltzjD9l-6|Reference|Process Status|
+|Standard Inbound.XAUylolUDNEYOAg-yCa5-1|Hub|Manufacturer|
 
 ## recognized connections from b.telligent Shape Library:
 

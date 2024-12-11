@@ -6,7 +6,6 @@ Ensemble2,Hub,Parent,Hub-to-Sat,,Satellite,other,Ensemble2.7BRsjSB82dXbHQxhyXmk-
 Ensemble2,Satellite,default,Hub-to-Sat,,Hub,Child,Ensemble2.7BRsjSB82dXbHQxhyXmk-14,Ensemble2.7BRsjSB82dXbHQxhyXmk-11,Ensemble2.7BRsjSB82dXbHQxhyXmk-10
 Ensemble2,Satellite,Pasta,Hub-to-Sat,,Hub,Nudel,Ensemble2.7BRsjSB82dXbHQxhyXmk-17,Ensemble2.7BRsjSB82dXbHQxhyXmk-16,Ensemble2.7BRsjSB82dXbHQxhyXmk-15
 Ensemble2,Hub,Nudel,Hub-to-Link-1,,Link,Link,Ensemble2.7BRsjSB82dXbHQxhyXmk-18,Ensemble2.7BRsjSB82dXbHQxhyXmk-15,Ensemble2.7BRsjSB82dXbHQxhyXmk-9
-Standard Inbound ADAPT,none,none,self precedence,none,none,none,Standard Inbound ADAPT.none,Standard Inbound ADAPT.none,Standard Inbound ADAPT.none
 Standard Inbound,Satellite,default,Hub-to-Sat,,Hub,Client,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-17,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-16,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-15
 Standard Inbound,Satellite,default,Hub-to-Sat,,Hub,Fiege Location,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-20,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-19,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-18
 Standard Inbound,Satellite,default,Hub-to-Sat,,Hub,Advice,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-23,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-22,Standard Inbound.CRDZAX5_v3VsPTcbH_Vh-21
